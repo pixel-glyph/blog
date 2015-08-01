@@ -2,7 +2,8 @@
 title: i'd rather be a polymath
 email: ninestein09@gmail.com
 description: An eclectic web log for your inner Renaissance fanatic.
-url: "http://ratherbeapolymath.me" # the base hostname & protocol for your site
+url: "https://pixel-glyph.github.io" # the base hostname & protocol for your site
+baseurl: "/blog"
 paginate: 3
 
 # Build settings
